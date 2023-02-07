@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+
+    </head>
+    <body  >
+        <p align="center"> Basic HTML Tags</p>
+        <h2 align="center" style="color:orangered">  Heading Tags => font size-18pt, colour-RED </h2>
+        <h1 align="center"> Heading h1 - 24 pt </h1> 
+        <h2 align="right"> heading h2 - 18 pt </h2>
+        <h3 align="left" > heading h3 - 12 pt </h3>
+        <h4 align="left"> heading h4 - 12 pt </h4>
+        <h5 align="left"> heading h5 - 10 pt </h5>
+        <h6 align="left"> heading h6 - 7 pt </h6>
+        <font size="+2">font size-36 pt,</font>
+        <font size="+1">font size-24 pt,</font>
+        <font size="-1">font size-18 pt,</font>
+        <font size="-2">font size-12 pt,</font>
+        <font size="-3">font size-12 pt,</font>
+        <font size="-4">font size-9 pt,</font>
+        <hr>
+        <h4 align="center" style="color:greenyellow"> Text elements => font size-12 pt, colour-green </h4>
+        <p>This is a paragraph. A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.</p>
+
+    </body>
+</html>
